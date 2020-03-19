@@ -8,7 +8,7 @@
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
     "presets" : {"url": "http://moodle.sympanux.com", "username": ""},
-    "demo_sites": [],
+    "siteurl" : "http//:moodle.sympanux.com"
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile"
 }
